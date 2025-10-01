@@ -1,3 +1,19 @@
+## 📊 Diagrammer
+
+### Architecture Overview
+
+- **Context:** [PNG](docs/diagrams/context/context.png) · [Forklaring](docs/diagrams/context/context.md)
+- **Use Case:** [PNG](docs/diagrams/usecase/usecase_adventureXP.png) · [Forklaring](docs/diagrams/usecase/usecase.md)
+- **Domænemodel:** [PNG](docs/diagrams/domain/domainmodel_adventure_mvp.png) · [Forklaring](docs/diagrams/domain/domain.md)
+- **ER-model:** [PNG](docs/diagrams/erd/erd_AdventureXP.png) · [Forklaring](docs/diagrams/er/er.md)
+
+### 📄 Rapporter
+
+- **User Story 2: Docker Setup** [PDF](docs/diagrams/reports/US2_Docker_Setup.pdf)
+
+
+
+
 # 🎯 AdventureXP 
 AdventureXP er et semesterprojekt, hvor vi udvikler et IT-system til en aktivitets- og oplevelsespark, der skal håndtere reservationer, aktiviteter, udstyr og arrangementer for både private og virksomheder.
 
